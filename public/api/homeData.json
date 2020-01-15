@@ -1,0 +1,165 @@
+{
+  "retCode": "000000",
+  "retDesc": "success",
+  "rspBody": {
+    "articleList": [
+    {
+      "id": "1",
+      "title": "你吃什么，就是什么样的人",
+      "desc": "心理导读：告诉我你吃什么，我就能知道你是什么样的人。人们吃的不仅仅是食物本身，还有它所凭依的文化。 让·安泰尔姆·布里亚—萨瓦兰是19世纪法国美",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/15088407-e076ae2920279b75.jpg"
+    },{
+      "id": "2",
+      "title": "干货 | 运动是最好的整容！",
+      "desc": "在这个以貌取人的时代，不仅面试社交需要健康的身材，就连上海某所小学招生，都要求面试家长体重是否超标； 而运动是最好的美术刀，简单、安全、有效。 ...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5404608-64cd97a7caf9ba7b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": "3",
+      "title": "没有底线的父母，正在养出疯狂的孩子",
+      "desc": "1、前几天，看到一个让人无语的新闻。 南宁市良庆区的一位老师在上课时，一名学生突然因为椅子倒地坐在了地上。 于是，老师从讲台前走过去，拉起这个学",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/12923576-1f5c8ef5a515c7e4.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": "4",
+      "title": "干货 | 运动是最好的整容！",
+      "desc": "在这个以貌取人的时代，不仅面试社交需要健康的身材，就连上海某所小学招生，都要求面试家长体重是否超标； 而运动是最好的美术刀，简单、安全、有效。 ...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5404608-64cd97a7caf9ba7b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": "5",
+      "title": "有趣！获奖无数！却不好说是国画、插画还是漫画！",
+      "desc": "大大的脑袋 圆圆的肉脸蛋 上提的眉毛和小眼睛 扎着冲天小辫 这个可爱的小孩就叫独角仙 插画师藉由这个古灵精怪的小孩 用着自己独特的表达方式 向大",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/16458820-b0c4eb93eddc28e1?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": "6",
+      "title": "没有底线的父母，正在养出疯狂的孩子",
+      "desc": "1、前几天，看到一个让人无语的新闻。 南宁市良庆区的一位老师在上课时，一名学生突然因为椅子倒地坐在了地上。 于是，老师从讲台前走过去，拉起这个学",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/12923576-1f5c8ef5a515c7e4.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": "7",
+      "title": "干货 | 运动是最好的整容！",
+      "desc": "在这个以貌取人的时代，不仅面试社交需要健康的身材，就连上海某所小学招生，都要求面试家长体重是否超标； 而运动是最好的美术刀，简单、安全、有效。 ...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5404608-64cd97a7caf9ba7b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": "8",
+      "title": "你吃什么，就是什么样的人",
+      "desc": "心理导读：告诉我你吃什么，我就能知道你是什么样的人。人们吃的不仅仅是食物本身，还有它所凭依的文化。 让·安泰尔姆·布里亚—萨瓦兰是19世纪法国美",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/15088407-e076ae2920279b75.jpg"
+    },{
+      "id": "9",
+      "title": "干货 | 运动是最好的整容！",
+      "desc": "在这个以貌取人的时代，不仅面试社交需要健康的身材，就连上海某所小学招生，都要求面试家长体重是否超标； 而运动是最好的美术刀，简单、安全、有效。 ...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5404608-64cd97a7caf9ba7b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }
+    ],
+    "writers": [
+      {
+        "id": 9988193,
+        "slug": "51b4ef597b53",
+        "nickname": "董克平日记",
+        "avatar_source": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg",
+        "total_likes_count": 2647,
+        "total_wordage": 816916,
+        "is_following_user": false
+      },
+      {
+        "id": 14715425,
+        "slug": "c5a2ce84f60b",
+        "nickname": "简书钻首席小管家",
+        "avatar_source": "https://upload.jianshu.io/users/upload_avatars/14715425/e0668349-8c75-43db-8a9d-c388e5f00d0d.jpg",
+        "total_likes_count": 159453,
+        "total_wordage": 230358,
+        "is_following_user": false
+      },
+      {
+        "id": 301940,
+        "slug": "ef4f2422125f",
+        "nickname": "卢璐说",
+        "avatar_source": "https://upload.jianshu.io/users/upload_avatars/301940/189d69dd-af7c-4290-9e2c-89e98acf3603.jpg",
+        "total_likes_count": 28376,
+        "total_wordage": 1381872,
+        "is_following_user": false
+      },
+      {
+        "id": 3136195,
+        "slug": "6810a6332de9",
+        "nickname": "梅拾璎",
+        "avatar_source": "https://upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg",
+        "total_likes_count": 29986,
+        "total_wordage": 267361,
+        "is_following_user": false
+      },
+      {
+        "id": 8723996,
+        "slug": "9607c7976e1c",
+        "nickname": "旸晓昆",
+        "avatar_source": "https://upload.jianshu.io/users/upload_avatars/8723996/5b2500d0-9768-4d3e-831c-47526ec444ed.jpeg",
+        "total_likes_count": 432,
+        "total_wordage": 137462,
+        "is_following_user": false
+      }
+    ],
+    "recommendList":[
+      {
+        "id": 1,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ],
+    "topicList":[
+    {
+      "id":1,
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg",
+      "topic": "手绘"
+    },{
+      "id":2,
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg",
+      "topic": "社会热点"
+    },{
+      "id":3,
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg",
+      "topic": "简书电影"
+    },{
+      "id": 4,
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg",
+      "topic": "旅行*在路上"
+    },{
+      "id": 5,
+      "topic": "社会热点",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    },{
+      "id": 6,
+      "topic": "手绘",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    },{
+      "id": 7,
+      "topic": "阿萨达阿达",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    },{
+      "id": 8,
+      "topic": "爱上了",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    },{
+      "id": 9,
+      "topic": "案例库",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    },{
+      "id": 10,
+      "topic": "社会热点",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    },{
+      "id": 11,
+      "topic": "案例库",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/14621973-b154c5b49a3d86fc.jpeg"
+    }]
+  }
+}
